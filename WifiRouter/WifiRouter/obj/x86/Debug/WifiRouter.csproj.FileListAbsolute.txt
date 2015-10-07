@@ -1,0 +1,8 @@
+E:\Projects\C#\WifiRouter\WifiRouter\bin\Debug\WifiRouter.exe
+E:\Projects\C#\WifiRouter\WifiRouter\bin\Debug\WifiRouter.pdb
+E:\Projects\C#\WifiRouter\WifiRouter\obj\x86\Debug\WifiRouter.csprojResolveAssemblyReference.cache
+E:\Projects\C#\WifiRouter\WifiRouter\obj\x86\Debug\WifiRouter.Form1.resources
+E:\Projects\C#\WifiRouter\WifiRouter\obj\x86\Debug\WifiRouter.Properties.Resources.resources
+E:\Projects\C#\WifiRouter\WifiRouter\obj\x86\Debug\WifiRouter.csproj.GenerateResource.Cache
+E:\Projects\C#\WifiRouter\WifiRouter\obj\x86\Debug\WifiRouter.exe
+E:\Projects\C#\WifiRouter\WifiRouter\obj\x86\Debug\WifiRouter.pdb
